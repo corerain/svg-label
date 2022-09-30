@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://github.com/corerain/float-collapse-menu"> <img alt="Corerain Logo" width="200" height="200" src="./images/Logo_Corerain.png"> </a> <br> <br>
+<div align="center"> <a href="https://github.com/corerain/svg-label"> <img alt="Corerain Logo" width="200" height="200" src="./images/Logo_Corerain.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
 
@@ -15,7 +15,7 @@ SvgLabel is a vue2.x component, based on the svg image annotation component.
 
 ## Live Demos
 
-https://corerain.github.io/float-collapse-menu/
+https://corerain.github.io/svg-label/
 
 - **vue**：vue2.x组件
 

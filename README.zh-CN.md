@@ -17,7 +17,7 @@ SvgLabel 是vue2.x组件，基于svg图片标注组件。
 
 ## 预览
 
-https://corerain.github.io/float-collapse-menu/
+https://corerain.github.io/svg-label/
 
 <p align="center">
     <img alt="SvgLabel demo" width="100%" src="./images/example.png">
